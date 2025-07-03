@@ -1,1 +1,26 @@
-/* Start coding here */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.outer-border {
+    border: 10px solid black;
+}
+
+.middle-border {
+    border: 10px solid green;
+}
+
+.inner-border {
+    border: 10px solid red;
+    padding-top: 10px;
+    padding-bottom: 500px;
+    background-color: yellow;
+
+
+}
+
+h1 {
+    text-align: center;
+}
